@@ -1,5 +1,9 @@
 # odin-recipes
 Build a recipe website to practice basic HTML skills
+
+#Live-Preview
+https://jnn-vrpl.github.io/odin-recipes
+
 # After-thoughts
 I finally finished this after 2.5 hours. I tried to extend the project by adding things not taught
 in the previous lessons of TOP. However, I find it hard since most of the things I wanted to add (e.g., making the numbers in OL bold, putting a menu option, etc.) involve CSS. 
